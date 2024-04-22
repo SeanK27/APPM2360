@@ -1,6 +1,6 @@
 # APPM 2360 Projects
 
-Matplotlib plots for Diff Eq and Linear Algebra projects.
+Differential Equations and Linear Algebra Project 1 and Project 2 Python and MATLAB files.
 
 ## Installation
 
